@@ -1,0 +1,22 @@
+{
+    "name": "rypsx/laravel-backup-folder",
+    "description": "A component useful to backup all the content of a folder using Laravel Framework",
+    "keywords": ["laravel", "backup", "folder", "php"],
+    "homepage": "https://github.com/rypsx/laravel-backup-folder",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "authors": [
+        {
+            "name": "Rypsx Dev",
+            "email": "info@rypsx.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Rypsx\\": "src/"
+        }
+    }
+}
